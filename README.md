@@ -42,11 +42,6 @@ To use the dashboard effectively:
 
     Operational efficiency analysis
 
-📍Preview
-
-  ![Dashboard Screenshot](call centre 2023.png)
-  
-    
-  📃 License
+ 📃 License
 
 This project is open for educational and organizational use. Modify and reuse as needed. Attribution appreciated.
