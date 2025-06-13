@@ -44,7 +44,7 @@ To use the dashboard effectively:
 
 📍Preview
 
-  Attached screenshot for preview.
+  ![Dashboard Screenshot](call centre 2023.png)
   
     
   📃 License
